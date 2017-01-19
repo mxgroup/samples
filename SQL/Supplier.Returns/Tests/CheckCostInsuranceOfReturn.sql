@@ -1,3 +1,5 @@
+use EmexMain
+
 -- Поиск
 select
 	o.*
